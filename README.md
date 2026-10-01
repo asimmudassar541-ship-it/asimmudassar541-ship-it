@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 style="color:#00E5FF;">ASIM MUDASAR</h1>
+# <h1 style="color:#00E5FF;">ASIM MUDASAR</h1>
 
 ### `FULL STACK DEVELOPER`
 
