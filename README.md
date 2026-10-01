@@ -199,6 +199,18 @@ A full-stack e-commerce application focused on products, users and online shoppi
 
 ---
 
+
+## 🏆 GITHUB TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy-delta-lac.vercel.app/?username=asimmudassar541-ship-it&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" width="95%" />
+
+</div>
+
+
+---
+
 ## 🔥 CONTRIBUTION STREAK
 
 <div align="center">
