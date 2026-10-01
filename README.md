@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 ASIM MUDASAR
+#  ASIM MUDASAR
 
-### `FULL STACK WEB DEVELOPER`
+### `FULL STACK DEVELOPER`
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;React.js+%7C+Node.js+%7C+Express.js;MongoDB+%7C+REST+APIs;Building+Modern+Web+Applications" alt="Typing SVG" />
 
@@ -32,8 +32,8 @@
 ```text
 ╭──────────────────────────────────────────────────────────────╮
 │                                                              │
-│   > INITIALIZING ASIM.DEV                                   │
-│   > SYSTEM STATUS: ONLINE                                   │
+│   > INITIALIZING ASIM.DEV                                    │
+│   > SYSTEM STATUS: ONLINE                                    │
 │                                                              │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
@@ -44,27 +44,27 @@
 │   └── LOCATION   : Pakistan                                  │
 │                                                              │
 │   FRONTEND                                                   │
-│   ├── React.js                                                │
-│   ├── JavaScript                                              │
-│   ├── HTML5                                                   │
-│   ├── CSS3                                                    │
-│   └── Bootstrap                                               │
+│   ├── React.js                                               │
+│   ├── JavaScript                                             │
+│   ├── HTML5                                                  │
+│   ├── CSS3                                                   │
+│   └── Bootstrap                                              │
 │                                                              │
 │   BACKEND                                                    │
-│   ├── Node.js                                                 │
-│   ├── Express.js                                              │
-│   ├── REST APIs                                               │
-│   └── JWT Authentication                                      │
+│   ├── Node.js                                                │
+│   ├── Express.js                                             │
+│   ├── REST APIs                                              │
+│   └── JWT Authentication                                     │
 │                                                              │
 │   DATABASE                                                   │
-│   └── MongoDB                                                 │
+│   └── MongoDB                                                │
 │                                                              │
 │   DEVELOPMENT TOOLS                                          │
-│   ├── Git                                                     │
-│   ├── GitHub                                                  │
-│   ├── VS Code                                                 │
-│   ├── npm                                                     │
-│   └── Postman                                                 │
+│   ├── Git                                                    │
+│   ├── GitHub                                                 │
+│   ├── VS Code                                                │
+│   ├── npm                                                    │
+│   └── Postman                                                │
 │                                                              │
 │   STATUS                                                     │
 │   ├── BUILDING                                               │
@@ -189,9 +189,9 @@ A full-stack e-commerce application focused on products, users and online shoppi
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=asimmudassar541-ship-it&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=asimmudassar541-ship-it&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&bg_color=0D1117&title_color=00E5FF&icon_color=7C3AED&text_color=C9D1D9" height="180" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimmudassar541-ship-it&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimmudassar541-ship-it&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" height="180" />
 
 </div>
 
@@ -201,7 +201,7 @@ A full-stack e-commerce application focused on products, users and online shoppi
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=asimmudassar541-ship-it&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=asimmudassar541-ship-it&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B949E" />
 
 </div>
 
@@ -211,7 +211,7 @@ A full-stack e-commerce application focused on products, users and online shoppi
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asimmudassar541-ship-it&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asimmudassar541-ship-it&bg_color=0D1117&color=00E5FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=ASIM%20MUDDASSAR%20-%20CONTRIBUTION%20ACTIVITY" width="95%" />
 
 </div>
 
@@ -221,14 +221,14 @@ A full-stack e-commerce application focused on products, users and online shoppi
 
 <div align="center">
 
-| Area | Focus |
+| 🚀 Area | 🎯 Current Focus |
 |---|---|
-| ⚛️ React.js | Advanced Components & UI |
-| 🟢 Node.js | Backend Development |
-| 🚀 Express.js | REST API Development |
-| 🍃 MongoDB | Database Design |
-| 🔐 Authentication | JWT & Secure APIs |
-| ☁️ DevOps | Cloud & Deployment |
+| ⚛️ React.js | Building modern and reusable UI components |
+| 🟢 Node.js | Developing scalable backend applications |
+| 🚀 Express.js | Building REST APIs |
+| 🍃 MongoDB | Database design and data management |
+| 🔐 Authentication | JWT authentication and secure APIs |
+| ☁️ DevOps | Learning cloud deployment and DevOps practices |
 
 </div>
 
@@ -236,14 +236,22 @@ A full-stack e-commerce application focused on products, users and online shoppi
 
 ## 🎯 2026 GOALS
 
-- 🚀 Build production-ready full-stack applications
-- ⚛️ Improve advanced React.js development
-- 🟢 Improve backend architecture and API design
-- 🗄️ Strengthen database design skills
-- ☁️ Learn cloud deployment and DevOps
-- 🐳 Learn Docker and CI/CD
-- 🌍 Contribute to open-source projects
-- 💼 Grow as a professional Full Stack Developer
+<div align="center">
+
+| 🎯 Goal | 📌 Progress |
+|---|---|
+| 🚀 Build production-ready full-stack applications | 🔄 In Progress |
+| ⚛️ Improve advanced React.js skills | 🔄 In Progress |
+| 🟢 Improve backend architecture & API design | 🔄 In Progress |
+| 🗄️ Strengthen database design skills | 🔄 In Progress |
+| ☁️ Learn Cloud & DevOps | 🔄 In Progress |
+| 🐳 Learn Docker & CI/CD | 📚 Learning |
+| 🌍 Contribute to Open Source | 🎯 Planned |
+| 💼 Grow as a professional Full Stack Developer | 🚀 Ongoing |
+
+</div>
+
+---
 
 ---
 
@@ -252,12 +260,16 @@ A full-stack e-commerce application focused on products, users and online shoppi
 <div align="center">
 
 <a href="https://github.com/asimmudassar541-ship-it">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://linkedin.com/in/asim-mudassar-72a62a384">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+<br><br>
+
+### 💬 Open to learning, collaboration & new opportunities
 
 </div>
 
@@ -265,12 +277,16 @@ A full-stack e-commerce application focused on products, users and online shoppi
 
 <div align="center">
 
-### 💻 Code. Build. Learn. Repeat.
+<img src="https://komarev.com/ghpvc/?username=asimmudassar541-ship-it&label=PROFILE%20VIEWS&color=00E5FF&style=for-the-badge" />
 
-<img src="https://komarev.com/ghpvc/?username=asimmudassar541-ship-it&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS" />
+<br><br>
+
+### ⚡ Thanks for visiting my profile!
+
+`Building • Learning • Shipping`
 
 <br>
 
-⭐ **Thanks for visiting my GitHub profile!**
+⭐ Feel free to explore my repositories and projects.
 
 </div>
