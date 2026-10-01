@@ -38,7 +38,7 @@
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
 │   IDENTITY                                                   │
-│   ├── NAME       : Asim Muddassar                            │
+│   ├── NAME       : Asim Mudasar                            │
 │   ├── ROLE       : Full Stack Web Developer                  │
 │   ├── SPECIALTY  : MERN Stack                                │
 │   └── LOCATION   : Pakistan                                  │
