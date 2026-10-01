@@ -1,7 +1,7 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1080&size=48&duration=1&pause=100000&color=00E5FF&center=true&vCenter=true&width=850&height=70&lines=ASIM+MUDASAR" alt="**ASIM MUDASAR**" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1&pause=100000&color=00E5FF&center=true&vCenter=true&width=500&lines=ASIM+MUDASAR" alt="**ASIM MUDASAR**" />
 
 
 ### `FULL STACK DEVELOPER`
