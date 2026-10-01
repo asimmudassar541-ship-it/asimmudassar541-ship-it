@@ -187,24 +187,24 @@ A full-stack e-commerce application focused on products, users and online shoppi
 
 ---
 
+
 ## 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=asimmudassar541-ship-it&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&bg_color=0D1117&title_color=00E5FF&icon_color=7C3AED&text_color=C9D1D9" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=asimmudassar541-ship-it&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github" height="180" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimmudassar541-ship-it&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimmudassar541-ship-it&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" height="180" />
 
 </div>
 
 ---
 
-
 ## 🏆 GITHUB TROPHIES
 
 <div align="center">
 
-<img src="https://github-profile-trophy-delta-lac.vercel.app/?username=asimmudassar541-ship-it&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" width="95%" />
+<img src="./.github/assets/trophy.svg" alt="GitHub Trophies" width="95%" />
 
 </div>
 
@@ -215,7 +215,7 @@ A full-stack e-commerce application focused on products, users and online shoppi
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=asimmudassar541-ship-it&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B949E" />
+<img src="https://streak-stats.demolab.com?user=asimmudassar541-ship-it&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" width="95%" />
 
 </div>
 
@@ -225,7 +225,7 @@ A full-stack e-commerce application focused on products, users and online shoppi
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph-kappa-blue.vercel.app/graph?username=asimmudassar541-ship-it&bg_color=0D1117&color=00E5FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=ASIM%20MUDASAR%20-%20CONTRIBUTION%20ACTIVITY" width="95%" />
+<img src="https://github-readme-activity-graph-kappa-blue.vercel.app/graph?username=asimmudassar541-ship-it&bg_color=0D1117&color=00E5FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=ASIM%20MUDDASSAR%20-%20CONTRIBUTION%20ACTIVITY" width="95%" />
 
 </div>
 
