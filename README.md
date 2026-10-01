@@ -43,7 +43,7 @@
 
 ## 👨‍💻 ABOUT ME
 
-Hi, I'm **Asim Muddassar**, a Full Stack Web Developer focused on building modern, responsive and database-driven web applications.
+Hi, I'm **Asim Mudasar**, a Full Stack Web Developer focused on building modern, responsive and database-driven web applications.
 
 I enjoy turning ideas into working products using the **MERN Stack** and continuously improving my development skills through real-world projects.
 
