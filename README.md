@@ -225,7 +225,7 @@ A full-stack e-commerce application focused on products, users and online shoppi
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph-kappa-blue.vercel.app/graph?username=asimmudassar541-ship-it&bg_color=0D1117&color=00E5FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=ASIM%20MUDDASSAR%20-%20CONTRIBUTION%20ACTIVITY" width="95%" />
+<img src="https://github-readme-activity-graph-kappa-blue.vercel.app/graph?username=asimmudassar541-ship-it&bg_color=0D1117&color=00E5FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=ASIM%20MUDASAR%20-%20CONTRIBUTION%20ACTIVITY" width="95%" />
 
 </div>
 
