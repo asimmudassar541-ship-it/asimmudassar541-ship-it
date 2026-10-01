@@ -1,43 +1,81 @@
 <div align="center">
 
-# 👋 Hi, I'm Asim Mudasar
+# 👋 ASIM MUDASAR
 
-### Full Stack Web Developer · MERN Stack · JavaScript
+### `FULL STACK WEB DEVELOPER`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;React.js+%7C+Node.js+%7C+Express.js;MongoDB+%7C+REST+APIs;Building+Modern+Web+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;React.js+%7C+Node.js+%7C+Express.js;MongoDB+%7C+REST+APIs;Building+Modern+Web+Applications" alt="Typing SVG" />
 
 <br/>
 
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00E5FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Stack-MERN-7C3AED?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Status-Building%20%26%20Learning-22C55E?style=for-the-badge&labelColor=0D1117" />
+
+<br/><br/>
+
 <a href="https://github.com/asimmudassar541-ship-it">
-<img src="https://img.shields.io/github/followers/asimmudassar541-ship-it?label=Followers&style=for-the-badge&logo=github&color=181717" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://github.com/asimmudassar541-ship-it?tab=repositories">
-<img src="https://img.shields.io/github/stars/asimmudassar541-ship-it?label=Stars&style=for-the-badge&logo=github&color=yellow" />
+<a href="https://linkedin.com/in/asim-mudassar-72a62a384">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
+
 ## 🖥️ SYSTEM.INFO
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                     ASIM MUDASAR                           │
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│   > INITIALIZING ASIM.DEV                                   │
+│   > SYSTEM STATUS: ONLINE                                   │
+│                                                              │
 ├──────────────────────────────────────────────────────────────┤
-│ ROLE        : Full Stack Web Developer                       │
-│ SPECIALTY   : MERN Stack                                     │
-│ FRONTEND    : React.js · JavaScript · HTML5 · CSS3          │
-│ BACKEND     : Node.js · Express.js                           │
-│ DATABASE    : MongoDB                                        │
-│ API         : REST APIs · JWT Authentication                 │
-│ TOOLS       : Git · GitHub · VS Code                         │
-│ LOCATION    : Pakistan                                       │
-│ STATUS      : Building · Learning · Shipping                 │
-└──────────────────────────────────────────────────────────────┘
+│                                                              │
+│   IDENTITY                                                   │
+│   ├── NAME       : Asim Muddassar                            │
+│   ├── ROLE       : Full Stack Web Developer                  │
+│   ├── SPECIALTY  : MERN Stack                                │
+│   └── LOCATION   : Pakistan                                  │
+│                                                              │
+│   FRONTEND                                                   │
+│   ├── React.js                                                │
+│   ├── JavaScript                                              │
+│   ├── HTML5                                                   │
+│   ├── CSS3                                                    │
+│   └── Bootstrap                                               │
+│                                                              │
+│   BACKEND                                                    │
+│   ├── Node.js                                                 │
+│   ├── Express.js                                              │
+│   ├── REST APIs                                               │
+│   └── JWT Authentication                                      │
+│                                                              │
+│   DATABASE                                                   │
+│   └── MongoDB                                                 │
+│                                                              │
+│   DEVELOPMENT TOOLS                                          │
+│   ├── Git                                                     │
+│   ├── GitHub                                                  │
+│   ├── VS Code                                                 │
+│   ├── npm                                                     │
+│   └── Postman                                                 │
+│                                                              │
+│   STATUS                                                     │
+│   ├── BUILDING                                               │
+│   ├── LEARNING                                               │
+│   └── SHIPPING                                               │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+
 
 ```
+
 
 ---
 
@@ -61,17 +99,33 @@ I enjoy turning ideas into working products using the **MERN Stack** and continu
 
 <div align="center">
 
-### Frontend
+### 🎨 FRONTEND
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
 
-### Backend & Database
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+### ⚙️ BACKEND
 
-### Tools & Technologies
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+<br><br>
+
+### 🗄️ DATABASE
+
+<img src="https://skillicons.dev/icons?i=mongodb" />
+
+<br><br>
+
+### 🛠️ TOOLS
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman" />
+
+<br><br>
+
+### 🔐 DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=javascript,nodejs,react,express,mongodb" />
 
 </div>
 
