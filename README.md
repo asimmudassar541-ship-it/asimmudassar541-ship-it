@@ -272,24 +272,14 @@ A full-stack e-commerce application focused on products, users and online shoppi
 
 ---
 
-
-## 🔗 PROFESSIONAL LINKS
+## 🔗 Professional Links
 
 <div align="center">
 
-<a href="https://github.com/asimmudassar541-ship-it">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com/in/asim-mudassar-72a62a384">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://asim-portfolio-green.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<br><br>
+<a href="https://github.com/asimmudassar541-ship-it"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/asim-mudassar-72a62a384"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://asim-portfolio-green.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Portfolio" /></a>
+<br>
 
 ### 💬 Open to learning, collaboration & new opportunities
 
