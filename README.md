@@ -220,7 +220,7 @@ A full-stack e-commerce application focused on products, users and online shoppi
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=asimmudassar541-ship-it&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" width="95%" />
+<img src="./profile/streak.svg" alt="GitHub Contribution Streak" width="95%" />
 
 </div>
 
