@@ -1,10 +1,15 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1080&size=48&duration=1&pause=100000&color=00E5FF&center=true&vCenter=true&width=850&height=70&lines=ASIM+MUDASAR" alt="**ASIM MUDASAR**" />
+<img src="./banner.png" alt="Asim Mudasar - Full Stack Developer" width="100%" />
+
+</div>
+
+<br/>
 
 
 
-### `FULL STACK DEVELOPER`
+<div align="center">
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;React.js+%7C+Node.js+%7C+Express.js;MongoDB+%7C+REST+APIs;Building+Modern+Web+Applications" alt="Typing SVG" />
 
