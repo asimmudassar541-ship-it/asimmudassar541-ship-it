@@ -6,7 +6,7 @@ from collections import defaultdict
 
 
 USERNAME = "asimmudassar541-ship-it"
-TOKEN = os.environ.get("GITHUB_TOKEN")
+TOKEN = os.environ.get("GITHUB_API_TOKEN")
 API = "https://api.github.com"
 
 
@@ -31,10 +31,11 @@ def get_all_repositories():
 
     while True:
         url = (
-            f"{API}/users/{USERNAME}/repos"
+            f"{API}/user/repos"
             f"?per_page=100"
             f"&page={page}"
-            f"&type=owner"
+            f"&visibility=all"
+            f"&affiliation=owner"
             f"&sort=updated"
         )
 
