@@ -197,9 +197,7 @@ A full-stack e-commerce application focused on products, users and online shoppi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=asimmudassar541-ship-it&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimmudassar541-ship-it&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" height="180" />
+<img src="./profile/analytics.svg" alt="Asim Mudasar GitHub Analytics" width="95%" />
 
 </div>
 
