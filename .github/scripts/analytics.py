@@ -33,10 +33,10 @@ def get_all_repositories():
 
     while True:
         url = (
-            f"{API}/user/repos"
+            f"{API}/users/{USERNAME}/repos"
             f"?per_page=100"
             f"&page={page}"
-            f"&affiliation=owner"
+            f"&type=owner"
             f"&sort=updated"
         )
 
@@ -46,6 +46,15 @@ def get_all_repositories():
             break
 
         repositories.extend(data)
+
+        if len(data) < 100:
+            break
+
+        page += 1
+
+    return repositories
+
+       
 
         if len(data) < 100:
             break
