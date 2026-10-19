@@ -34,7 +34,7 @@
 ---
 
 
-## 🖥️ SYSTEM.INFO
+##  SYSTEM.INFO
 
 ```text
 ╭──────────────────────────────────────────────────────────────╮
@@ -86,39 +86,39 @@
 
 ---
 
-## 👨‍💻 ABOUT ME
+##  ABOUT ME
 
 Hi, I'm **Asim Mudasar**, a Full Stack Web Developer focused on building modern, responsive and database-driven web applications.
 
 I enjoy turning ideas into working products using the **MERN Stack** and continuously improving my development skills through real-world projects.
 
-- 🚀 Building full-stack web applications
-- ⚛️ Working with React.js
-- 🟢 Developing backend APIs with Node.js & Express.js
-- 🍃 Working with MongoDB
-- 🔐 Working with authentication and REST APIs
-- 📚 Continuously learning modern web technologies
-- 💡 Interested in scalable and user-friendly applications
+-  Building full-stack web applications
+-  Working with React.js
+-  Developing backend APIs with Node.js & Express.js
+-  Working with MongoDB
+-  Working with authentication and REST APIs
+-  Continuously learning modern web technologies
+-  Interested in scalable and user-friendly applications
 
 ---
 
-## ⚡ TECH STACK
+##  TECH STACK
 
 <div align="center">
 
-### 🎨 FRONTEND
+###  FRONTEND
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
 
 <br><br>
 
-### ⚙️ BACKEND
+###  BACKEND
 
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
 <br><br>
 
-### 🗄️ DATABASE
+###  DATABASE
 
 <img src="https://skillicons.dev/icons?i=mongodb" />
 
@@ -130,7 +130,7 @@ I enjoy turning ideas into working products using the **MERN Stack** and continu
 
 <br><br>
 
-### 🔐 DEVELOPMENT
+###  DEVELOPMENT
 
 <img src="https://skillicons.dev/icons?i=javascript,nodejs,react,express,mongodb" />
 
@@ -138,7 +138,7 @@ I enjoy turning ideas into working products using the **MERN Stack** and continu
 
 ---
 
-## 🚀 FEATURED PROJECTS
+##  FEATURED PROJECTS
 
 <table>
 <tr>
@@ -193,7 +193,7 @@ A full-stack e-commerce application focused on products, users and online shoppi
 ---
 
 
-## 📊 GITHUB ANALYTICS
+##  GITHUB ANALYTICS
 
 <div align="center">
 
@@ -203,7 +203,7 @@ A full-stack e-commerce application focused on products, users and online shoppi
 
 ---
 
-## 🏆 GITHUB TROPHIES
+##  GITHUB TROPHIES
 
 <div align="center">
 
@@ -214,7 +214,7 @@ A full-stack e-commerce application focused on products, users and online shoppi
 
 ---
 
-## 🔥 CONTRIBUTION STREAK
+##  CONTRIBUTION STREAK
 
 <div align="center">
 
@@ -234,7 +234,7 @@ A full-stack e-commerce application focused on products, users and online shoppi
 
 ---
 
-## 🧠 CURRENT FOCUS
+##  CURRENT FOCUS
 
 <div align="center">
 
@@ -291,12 +291,12 @@ A full-stack e-commerce application focused on products, users and online shoppi
 
 <br><br>
 
-### ⚡ Thanks for visiting my profile!
+###  Thanks for visiting my profile!
 
 `Building • Learning • Shipping`
 
 <br>
 
-⭐ Feel free to Contact me.
+ Feel free to Contact me.
 
 </div>
