@@ -3,12 +3,10 @@ import json
 import urllib.request
 import urllib.parse
 from collections import defaultdict
-from datetime import datetime
 
 
 USERNAME = "asimmudassar541-ship-it"
 TOKEN = os.environ.get("GITHUB_TOKEN")
-
 API = "https://api.github.com"
 
 
@@ -54,15 +52,6 @@ def get_all_repositories():
 
     return repositories
 
-       
-
-        if len(data) < 100:
-            break
-
-        page += 1
-
-    return repositories
-
 
 def get_commit_count(owner, repo):
     total = 0
@@ -79,7 +68,8 @@ def get_commit_count(owner, repo):
 
         try:
             data = github_api(url)
-        except Exception:
+        except Exception as error:
+            print(f"Could not read commits from {repo}: {error}")
             return total
 
         if not data:
@@ -100,7 +90,8 @@ def get_repository_languages(owner, repo):
 
     try:
         return github_api(url)
-    except Exception:
+    except Exception as error:
+        print(f"Could not read languages from {repo}: {error}")
         return {}
 
 
@@ -156,15 +147,16 @@ def create_svg(stats, languages):
         color = language_colors.get(language, "#8B949E")
 
         segments.append(
-            f'<rect x="{current_x:.2f}" y="{bar_y}" '
-            f'width="{segment_width:.2f}" height="{bar_height}" '
+            f'<rect x="{current_x:.2f}" '
+            f'y="{bar_y}" '
+            f'width="{segment_width:.2f}" '
+            f'height="{bar_height}" '
             f'fill="{color}" />'
         )
 
         current_x += segment_width
 
     language_rows = []
-
     row_y = 155
 
     for language, value in language_items[:5]:
@@ -174,13 +166,17 @@ def create_svg(stats, languages):
         language_rows.append(
             f'''
             <circle cx="480" cy="{row_y}" r="5" fill="{color}" />
-            <text x="495" y="{row_y + 5}"
+
+            <text x="495"
+                  y="{row_y + 5}"
                   fill="#C9D1D9"
                   font-size="14"
                   font-family="Arial, sans-serif">
                 {language}
             </text>
-            <text x="820" y="{row_y + 5}"
+
+            <text x="820"
+                  y="{row_y + 5}"
                   fill="#C9D1D9"
                   font-size="14"
                   text-anchor="end"
@@ -197,12 +193,15 @@ def create_svg(stats, languages):
     height="{height}"
     viewBox="0 0 {width} {height}">
 
-    <rect width="100%" height="100%" rx="18"
+    <rect width="100%"
+          height="100%"
+          rx="18"
           fill="#0D1117"
           stroke="#30363D"
           stroke-width="1"/>
 
-    <text x="35" y="45"
+    <text x="35"
+          y="45"
           fill="#00E5FF"
           font-size="22"
           font-weight="bold"
@@ -210,18 +209,22 @@ def create_svg(stats, languages):
         ASIM MUDASAR'S GITHUB ANALYTICS
     </text>
 
-    <text x="35" y="72"
+    <text x="35"
+          y="72"
           fill="#8B949E"
           font-size="13"
           font-family="Arial, sans-serif">
         Real GitHub repository data • All-time commit history
     </text>
 
-    <line x1="35" y1="90"
-          x2="865" y2="90"
+    <line x1="35"
+          y1="90"
+          x2="865"
+          y2="90"
           stroke="#30363D"/>
 
-    <text x="45" y="130"
+    <text x="45"
+          y="130"
           fill="#C9D1D9"
           font-size="14"
           font-weight="bold"
@@ -229,7 +232,8 @@ def create_svg(stats, languages):
         ALL-TIME COMMITS
     </text>
 
-    <text x="45" y="180"
+    <text x="45"
+          y="180"
           fill="#00E5FF"
           font-size="38"
           font-weight="bold"
@@ -237,14 +241,16 @@ def create_svg(stats, languages):
         {stats["commits"]}
     </text>
 
-    <text x="45" y="205"
+    <text x="45"
+          y="205"
           fill="#8B949E"
           font-size="13"
           font-family="Arial, sans-serif">
         commits across owned repositories
     </text>
 
-    <text x="45" y="245"
+    <text x="45"
+          y="245"
           fill="#C9D1D9"
           font-size="14"
           font-weight="bold"
@@ -252,7 +258,8 @@ def create_svg(stats, languages):
         REPOSITORIES
     </text>
 
-    <text x="45" y="282"
+    <text x="45"
+          y="282"
           fill="#7C3AED"
           font-size="30"
           font-weight="bold"
@@ -260,14 +267,16 @@ def create_svg(stats, languages):
         {stats["repositories"]}
     </text>
 
-    <text x="150" y="282"
+    <text x="150"
+          y="282"
           fill="#8B949E"
           font-size="13"
           font-family="Arial, sans-serif">
         owned repositories
     </text>
 
-    <text x="470" y="80"
+    <text x="470"
+          y="80"
           fill="#C9D1D9"
           font-size="14"
           font-weight="bold"
@@ -279,7 +288,8 @@ def create_svg(stats, languages):
 
     {''.join(language_rows)}
 
-    <text x="865" y="305"
+    <text x="865"
+          y="305"
           fill="#484F58"
           font-size="10"
           text-anchor="end"
@@ -295,12 +305,17 @@ def create_svg(stats, languages):
 def main():
     os.makedirs("profile", exist_ok=True)
 
+    print("Fetching GitHub repositories...")
+
     repositories = get_all_repositories()
 
     owned_repositories = [
-        repo for repo in repositories
+        repo
+        for repo in repositories
         if not repo.get("fork", False)
     ]
+
+    print(f"Found {len(owned_repositories)} owned repositories.")
 
     total_commits = 0
     language_totals = defaultdict(int)
@@ -323,14 +338,19 @@ def main():
         "repositories": len(owned_repositories),
     }
 
+    print(f"Total commits: {total_commits}")
+    print(f"Total repositories: {len(owned_repositories)}")
+
     svg = create_svg(stats, language_totals)
 
-    with open("profile/analytics.svg", "w", encoding="utf-8") as file:
+    with open(
+        "profile/analytics.svg",
+        "w",
+        encoding="utf-8"
+    ) as file:
         file.write(svg)
 
     print("Analytics generated successfully!")
-    print(f"Repositories: {stats['repositories']}")
-    print(f"Commits: {stats['commits']}")
 
 
 if __name__ == "__main__":
