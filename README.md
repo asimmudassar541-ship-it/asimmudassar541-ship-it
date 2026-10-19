@@ -124,7 +124,7 @@ I enjoy turning ideas into working products using the **MERN Stack** and continu
 
 <br><br>
 
-### 🛠️ TOOLS
+###  TOOLS
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman" />
 
@@ -224,7 +224,7 @@ A full-stack e-commerce application focused on products, users and online shoppi
 
 ---
 
-## 📈 CONTRIBUTION GRAPH
+##  CONTRIBUTION GRAPH
 
 <div align="center">
 
@@ -270,7 +270,7 @@ A full-stack e-commerce application focused on products, users and online shoppi
 
 ---
 
-## 🔗 Professional Links
+##  Professional Links
 
 <div align="center">
 
@@ -279,7 +279,7 @@ A full-stack e-commerce application focused on products, users and online shoppi
 <a href="https://asim-portfolio-green.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Portfolio" /></a>
 <br>
 
-### 💬 Open to learning, collaboration & new opportunities
+###  Open to learning, collaboration & new opportunities
 
 </div>
 
