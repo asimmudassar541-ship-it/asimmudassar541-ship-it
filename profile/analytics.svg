@@ -48,7 +48,7 @@
           font-size="38"
           font-weight="bold"
           font-family="Arial, sans-serif">
-        45
+        571
     </text>
 
     <text x="45"
@@ -74,7 +74,7 @@
           font-size="30"
           font-weight="bold"
           font-family="Arial, sans-serif">
-        6
+        25
     </text>
 
     <text x="150"
@@ -94,7 +94,7 @@
         MOST USED LANGUAGES
     </text>
 
-    <rect x="470.00" y="105" width="283.69" height="18" fill="#E34F26" /><rect x="753.69" y="105" width="34.78" height="18" fill="#1572B6" /><rect x="788.47" y="105" width="21.53" height="18" fill="#F7DF1E" />
+    <rect x="470.00" y="105" width="170.93" height="18" fill="#E34F26" /><rect x="640.93" y="105" width="121.45" height="18" fill="#F7DF1E" /><rect x="762.37" y="105" width="47.63" height="18" fill="#1572B6" />
 
     
             <circle cx="480" cy="155" r="5" fill="#E34F26" />
@@ -113,32 +113,13 @@
                   font-size="14"
                   text-anchor="end"
                   font-family="Arial, sans-serif">
-                83.44%
+                50.27%
             </text>
             
-            <circle cx="480" cy="182" r="5" fill="#1572B6" />
+            <circle cx="480" cy="182" r="5" fill="#F7DF1E" />
 
             <text x="495"
                   y="187"
-                  fill="#C9D1D9"
-                  font-size="14"
-                  font-family="Arial, sans-serif">
-                CSS
-            </text>
-
-            <text x="820"
-                  y="187"
-                  fill="#C9D1D9"
-                  font-size="14"
-                  text-anchor="end"
-                  font-family="Arial, sans-serif">
-                10.23%
-            </text>
-            
-            <circle cx="480" cy="209" r="5" fill="#F7DF1E" />
-
-            <text x="495"
-                  y="214"
                   fill="#C9D1D9"
                   font-size="14"
                   font-family="Arial, sans-serif">
@@ -146,12 +127,31 @@
             </text>
 
             <text x="820"
+                  y="187"
+                  fill="#C9D1D9"
+                  font-size="14"
+                  text-anchor="end"
+                  font-family="Arial, sans-serif">
+                35.72%
+            </text>
+            
+            <circle cx="480" cy="209" r="5" fill="#1572B6" />
+
+            <text x="495"
+                  y="214"
+                  fill="#C9D1D9"
+                  font-size="14"
+                  font-family="Arial, sans-serif">
+                CSS
+            </text>
+
+            <text x="820"
                   y="214"
                   fill="#C9D1D9"
                   font-size="14"
                   text-anchor="end"
                   font-family="Arial, sans-serif">
-                6.33%
+                14.01%
             </text>
             
 
