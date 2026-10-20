@@ -1,8 +1,13 @@
 name: Update GitHub Analytics
 
 on:
+  push:
+    paths-ignore:
+      - "profile/analytics.svg"
+
   schedule:
-    - cron: "0 4 * * *"
+    - cron: "0 * * * *"
+
   workflow_dispatch:
 
 permissions:
