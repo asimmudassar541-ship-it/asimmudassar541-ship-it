@@ -48,7 +48,7 @@
           font-size="38"
           font-weight="bold"
           font-family="Arial, sans-serif">
-        636
+        644
     </text>
 
     <text x="45"
@@ -94,7 +94,7 @@
         MOST USED LANGUAGES
     </text>
 
-    <rect x="470.00" y="105" width="162.54" height="18" fill="#E34F26" /><rect x="632.54" y="105" width="125.02" height="18" fill="#F7DF1E" /><rect x="757.56" y="105" width="52.44" height="18" fill="#1572B6" />
+    <rect x="470.00" y="105" width="162.68" height="18" fill="#E34F26" /><rect x="632.68" y="105" width="124.84" height="18" fill="#F7DF1E" /><rect x="757.52" y="105" width="52.48" height="18" fill="#1572B6" />
 
     
             <circle cx="480" cy="155" r="5" fill="#E34F26" />
@@ -113,7 +113,7 @@
                   font-size="14"
                   text-anchor="end"
                   font-family="Arial, sans-serif">
-                47.81%
+                47.85%
             </text>
             
             <circle cx="480" cy="182" r="5" fill="#F7DF1E" />
@@ -132,7 +132,7 @@
                   font-size="14"
                   text-anchor="end"
                   font-family="Arial, sans-serif">
-                36.77%
+                36.72%
             </text>
             
             <circle cx="480" cy="209" r="5" fill="#1572B6" />
@@ -151,7 +151,7 @@
                   font-size="14"
                   text-anchor="end"
                   font-family="Arial, sans-serif">
-                15.42%
+                15.44%
             </text>
             
 
