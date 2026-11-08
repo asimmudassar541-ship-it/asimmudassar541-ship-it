@@ -48,7 +48,7 @@
           font-size="38"
           font-weight="bold"
           font-family="Arial, sans-serif">
-        658
+        660
     </text>
 
     <text x="45"
@@ -94,7 +94,7 @@
         MOST USED LANGUAGES
     </text>
 
-    <rect x="470.00" y="105" width="162.62" height="18" fill="#E34F26" /><rect x="632.62" y="105" width="124.91" height="18" fill="#F7DF1E" /><rect x="757.54" y="105" width="52.46" height="18" fill="#1572B6" />
+    <rect x="470.00" y="105" width="162.63" height="18" fill="#E34F26" /><rect x="632.63" y="105" width="124.90" height="18" fill="#F7DF1E" /><rect x="757.53" y="105" width="52.47" height="18" fill="#1572B6" />
 
     
             <circle cx="480" cy="155" r="5" fill="#E34F26" />
