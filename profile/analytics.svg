@@ -94,7 +94,7 @@
         MOST USED LANGUAGES
     </text>
 
-    <rect x="470.00" y="105" width="168.27" height="18" fill="#E34F26" /><rect x="638.27" y="105" width="122.42" height="18" fill="#F7DF1E" /><rect x="760.69" y="105" width="49.31" height="18" fill="#1572B6" />
+    <rect x="470.00" y="105" width="168.26" height="18" fill="#E34F26" /><rect x="638.26" y="105" width="122.43" height="18" fill="#F7DF1E" /><rect x="760.69" y="105" width="49.31" height="18" fill="#1572B6" />
 
     
             <circle cx="480" cy="155" r="5" fill="#E34F26" />
@@ -132,7 +132,7 @@
                   font-size="14"
                   text-anchor="end"
                   font-family="Arial, sans-serif">
-                36.00%
+                36.01%
             </text>
             
             <circle cx="480" cy="209" r="5" fill="#1572B6" />
